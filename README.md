@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello World!  I'm Dimple </h1>
 <h3 align="center">I'm a Full Stack Developer from Toronto 🇨🇦</h3>
 <br>
+
 - 🔭 I’m currently working on [dimple-dhawan-capstone](https://github.com/dimple-dhawan/dimple-dhawan-capstone)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dimple-dhawan](https://github.com/dimple-dhawan)
