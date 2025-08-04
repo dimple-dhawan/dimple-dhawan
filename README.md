@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Data Analytics Engineer from Toronto 🇨🇦</h3>
 <br>
 
-- 🔭 I’m currently working on [dimple-dhawan-capstone](https://github.com/dimple-dhawan/cancer-risk-ai)
+- 🔭 I’m currently working on [cancer-risk-ai](https://github.com/dimple-dhawan/cancer-risk-ai)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dimple-dhawan](https://github.com/dimple-dhawan)
 
